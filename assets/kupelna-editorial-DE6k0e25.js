@@ -1,0 +1,1 @@
+var e=`/assets/kupelna-editorial-ACLSKHdF.jpg`;export{e as t};

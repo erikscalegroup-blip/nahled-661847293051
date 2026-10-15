@@ -1,0 +1,1 @@
+var e=`/assets/materialy-editorial-IYrGvFhc.jpg`;export{e as t};

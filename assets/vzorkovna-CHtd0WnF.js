@@ -1,0 +1,1 @@
+var e=`/assets/vzorkovna--iN-dqe8.jpg`;export{e as t};

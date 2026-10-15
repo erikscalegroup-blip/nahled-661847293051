@@ -1,0 +1,1 @@
+var e=`/assets/detail-vinyl-BcB9QKe6.jpg`;export{e as t};

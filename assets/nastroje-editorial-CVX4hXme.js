@@ -1,0 +1,1 @@
+var e=`/assets/nastroje-editorial-BYH3nWdC.jpg`;export{e as t};

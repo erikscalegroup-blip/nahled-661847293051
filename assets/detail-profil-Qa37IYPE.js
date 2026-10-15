@@ -1,0 +1,1 @@
+var e=`/assets/detail-profil-CTk-NWEW.jpg`;export{e as t};

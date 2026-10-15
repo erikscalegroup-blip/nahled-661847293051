@@ -1,0 +1,1 @@
+var e=`/assets/podlahy-O2KXHGeO.jpg`;export{e as t};

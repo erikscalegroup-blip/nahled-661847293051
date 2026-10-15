@@ -1,0 +1,1 @@
+var e=`/assets/hero-kupelna-CyWuPwV5.jpg`;export{e as t};

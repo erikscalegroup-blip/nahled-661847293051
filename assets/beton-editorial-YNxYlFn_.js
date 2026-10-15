@@ -1,0 +1,1 @@
+var e=`/assets/beton-editorial-62oBisJK.jpg`;export{e as t};

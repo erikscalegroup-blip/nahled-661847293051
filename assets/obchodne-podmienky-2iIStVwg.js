@@ -1,0 +1,1 @@
+import{h as e,u as t,y as n}from"./index-Bsd5jgks.js";import{t as r}from"./Hlavicka-CRj6pXXf.js";var i=n();function a(){return(0,i.jsx)(r,{stitok:`PRÁVNE INFORMÁCIE`,nadpis:e.nadpis,perex:e.text,children:(0,i.jsx)(`a`,{"data-anim":!0,href:t.odkazy[0].url,className:`btn btn-more mt-8`,children:e.cta})})}export{a as component};

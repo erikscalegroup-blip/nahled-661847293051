@@ -1,0 +1,1 @@
+var e=`/assets/detail-mramor-CnKzEHN2.jpg`;export{e as t};

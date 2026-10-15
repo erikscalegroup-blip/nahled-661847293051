@@ -1,0 +1,1 @@
+var e=`/assets/izolacia-DYhW8e9g.jpg`;export{e as t};
